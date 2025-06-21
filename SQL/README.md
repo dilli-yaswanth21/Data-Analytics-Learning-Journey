@@ -28,8 +28,6 @@ Here, I will be posting **everything I learn on a daily basis** as I progress th
 - Transactions
 - DDL, DML, TCL, DCL
 - Real-world use cases
--
-
 ---
 
 🔁 This folder will grow every day as I continue building my skills through consistent practice using free online resources, ChatGPT, and hands-on work.
